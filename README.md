@@ -1,1 +1,3 @@
-# Game_Of_Life
+# Game of life
+
+![Alt Text](image.gif)
